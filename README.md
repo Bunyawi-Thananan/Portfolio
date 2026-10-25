@@ -1,3 +1,5 @@
 # Bunyawee Thananun — Portfolio
 
-Personal portfolio site. Live at https://bunyawi-thananan.github.io/
+Personal portfolio of a junior web & Android developer (Computer Science, Phetchaburi Rajabhat University).
+
+Live: https://bunyawi-thananan.github.io/Portfolio/
